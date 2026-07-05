@@ -1,0 +1,56 @@
+============================================================
+  App      : BankAccountPipeline (pandas stand-in)
+  Version  : pandas 3.0.2
+============================================================
+Total records: 1000
+
+── Null Count per Column ───────────────────
+ account_id  customer_name  account_type  balance  city  account_open_date  credit_score  status
+          0              0             0       57     0                  0             0     214
+
+Active accounts with valid balance: 191
+
+── Account Type Stats ──────────────────────
+     account_type  account_count  avg_balance  min_balance  max_balance  avg_tenure  avg_credit_score
+             Loan             25   1680471.28       151687      2757571         4.6             626.0
+    Fixed Deposit             28   1023911.54        60726      1989896         4.8             601.7
+          Current             34    380667.68        12618       793384         5.2             602.0
+Recurring Deposit             32    217887.91        11406       459570         5.0             556.0
+          Savings             34    118438.03         8790       249454         6.2             622.4
+      Credit Card             38    103802.32          380       196332         5.8             679.7
+
+── Balance Band Distribution ───────────────
+balance_band  count  avg_balance
+         Low     14      11169.0
+         Mid     32      60960.0
+        High     88     220191.0
+     Premium     57    1352349.0
+
+── City-wise Account Volume ─────────────────
+     city  accounts  avg_balance
+   Mumbai        34    463457.44
+     Pune        29    636909.03
+Bangalore        29    336085.03
+    Delhi        28    611525.25
+  Chennai        25    701324.84
+  Kolkata        25    358755.12
+Hyderabad        21    522319.67
+
+── Top 10 Accounts by Balance ──────────────
+account_id     customer account_type  balance balance_band      city
+  ACC00510   Neha Patel         Loan  2757571      Premium      Pune
+  ACC00631 Vivaan Mehta         Loan  2725806      Premium Hyderabad
+  ACC00915  Rohan Mehta         Loan  2656634      Premium     Delhi
+  ACC00577  Diya Kapoor         Loan  2622734      Premium      Pune
+  ACC00883  Rahul Reddy         Loan  2606473      Premium    Mumbai
+  ACC00954   Karan Khan         Loan  2534985      Premium     Delhi
+  ACC00980   Kunal Nair         Loan  2503326      Premium     Delhi
+  ACC00337    Diya Nair         Loan  2156384      Premium     Delhi
+  ACC00560  Kunal Patel         Loan  2142863      Premium   Chennai
+  ACC00507  Tanvi Verma         Loan  2065189      Premium    Mumbai
+
+Written: output/accounts_transformed.csv, output/type_summary.csv
+
+============================================================
+  Pipeline complete (pandas stand-in).
+============================================================

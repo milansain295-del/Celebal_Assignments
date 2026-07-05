@@ -1,0 +1,7 @@
+account_type,account_count,avg_balance,min_balance,max_balance,avg_tenure,avg_credit_score
+Loan,25,1680471.28,151687,2757571,4.6,626.0
+Fixed Deposit,28,1023911.54,60726,1989896,4.8,601.7
+Current,34,380667.68,12618,793384,5.2,602.0
+Recurring Deposit,32,217887.91,11406,459570,5.0,556.0
+Savings,34,118438.03,8790,249454,6.2,622.4
+Credit Card,38,103802.32,380,196332,5.8,679.7

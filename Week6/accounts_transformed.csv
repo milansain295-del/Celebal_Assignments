@@ -1,0 +1,192 @@
+account_id,customer,account_type,balance,projected_annual_interest,balance_band,city,account_open_date,tenure_years,credit_score
+ACC00002,Vivaan Verma,Recurring Deposit,127924,8315.06,High,Kolkata,2020-10-04,5.8,360
+ACC00003,Ananya Singh,Credit Card,12372,804.18,Low,Kolkata,2020-06-12,6.1,350
+ACC00008,Tanvi Verma,Savings,45415,2951.98,Mid,Bangalore,2017-09-14,8.8,800
+ACC00014,Priya Singh,Recurring Deposit,83951,5456.82,Mid,Delhi,2017-09-11,8.8,537
+ACC00022,Rahul Reddy,Current,732175,47591.38,Premium,Hyderabad,2021-12-03,4.6,605
+ACC00029,Neha Kapoor,Credit Card,160164,10410.66,High,Pune,2020-06-09,6.1,774
+ACC00031,Tanvi Chatterjee,Loan,2006078,130395.07,Premium,Bangalore,2017-09-30,8.8,861
+ACC00037,Diya Joshi,Savings,72844,4734.86,Mid,Hyderabad,2017-02-04,9.4,819
+ACC00044,Simran Mehta,Recurring Deposit,198328,12891.32,High,Kolkata,2022-12-30,3.5,602
+ACC00047,Kunal Verma,Fixed Deposit,1392000,90480.0,Premium,Chennai,2026-01-15,0.5,374
+ACC00055,Aditi Singh,Recurring Deposit,338566,22006.79,High,Bangalore,2022-09-18,3.8,548
+ACC00056,Vikram Iyer,Current,12861,835.96,Low,Bangalore,2019-09-09,6.8,860
+ACC00062,Aditi Sharma,Savings,93373,6069.24,Mid,Mumbai,2020-03-22,6.3,762
+ACC00063,Simran Singh,Current,12618,820.17,Low,Hyderabad,2016-10-14,9.7,815
+ACC00073,Neha Reddy,Recurring Deposit,421713,27411.34,High,Mumbai,2019-08-22,6.9,646
+ACC00074,Meera Rao,Savings,76009,4940.58,Mid,Bangalore,2016-09-23,9.8,702
+ACC00094,Rohan Kapoor,Fixed Deposit,1266014,82290.91,Premium,Kolkata,2018-02-06,8.4,528
+ACC00098,Priya Reddy,Recurring Deposit,11406,741.39,Low,Bangalore,2016-11-26,9.6,659
+ACC00101,Neha Nair,Credit Card,8129,528.38,Low,Mumbai,2021-03-15,5.3,364
+ACC00102,Rohan Nair,Credit Card,121123,7873.0,High,Bangalore,2019-01-20,7.5,643
+ACC00109,Ishaan Nair,Current,500043,32502.8,Premium,Pune,2018-08-20,7.9,851
+ACC00115,Aarav Verma,Credit Card,123989,8059.28,High,Delhi,2016-06-02,10.1,677
+ACC00131,Neha Reddy,Savings,128563,8356.6,High,Pune,2016-06-15,10.1,341
+ACC00138,Rahul Sharma,Credit Card,193230,12559.95,High,Chennai,2022-03-24,4.3,833
+ACC00142,Tanvi Singh,Recurring Deposit,188408,12246.52,High,Mumbai,2017-06-24,9.0,800
+ACC00149,Meera Joshi,Loan,1978030,128571.95,Premium,Chennai,2025-02-13,1.4,478
+ACC00151,Neha Rao,Recurring Deposit,331210,21528.65,High,Delhi,2018-07-14,8.0,407
+ACC00155,Arjun Chatterjee,Credit Card,196332,12761.58,High,Hyderabad,2022-01-05,4.5,780
+ACC00156,Aarav Khan,Credit Card,176951,11501.82,High,Hyderabad,2018-05-18,8.1,700
+ACC00158,Aarav Sharma,Savings,162668,10573.42,High,Mumbai,2023-10-25,2.7,369
+ACC00165,Ishaan Khan,Savings,75641,4916.66,Mid,Hyderabad,2016-08-09,9.9,304
+ACC00167,Sara Chatterjee,Current,192906,12538.89,High,Delhi,2017-03-26,9.3,382
+ACC00168,Kunal Reddy,Savings,101676,6608.94,High,Pune,2016-12-18,9.6,732
+ACC00174,Ishaan Nair,Fixed Deposit,554441,36038.66,Premium,Pune,2017-02-20,9.4,468
+ACC00175,Meera Khan,Current,637961,41467.47,Premium,Pune,2019-05-03,7.2,745
+ACC00183,Rahul Reddy,Recurring Deposit,233885,15202.52,High,Pune,2018-01-22,8.5,701
+ACC00197,Sara Chatterjee,Recurring Deposit,215220,13989.3,High,Pune,2016-11-04,9.7,484
+ACC00203,Simran Patel,Savings,31582,2052.83,Mid,Mumbai,2018-02-16,8.4,786
+ACC00205,Vikram Singh,Current,153225,9959.62,High,Mumbai,2020-09-22,5.8,403
+ACC00207,Vivaan Reddy,Savings,162232,10545.08,High,Mumbai,2021-07-31,4.9,881
+ACC00212,Kabir Rao,Savings,141584,9202.96,High,Chennai,2021-03-01,5.3,560
+ACC00216,Rohan Kapoor,Loan,911730,59262.45,Premium,Kolkata,2023-04-20,3.2,640
+ACC00220,Priya Joshi,Savings,123766,8044.79,High,Chennai,2018-03-31,8.3,539
+ACC00221,Arjun Mehta,Credit Card,50946,3311.49,Mid,Hyderabad,2016-02-08,10.4,694
+ACC00229,Tanvi Singh,Recurring Deposit,356124,23148.06,High,Mumbai,2018-11-19,7.6,626
+ACC00248,Vivaan Iyer,Credit Card,118979,7733.64,High,Mumbai,2019-12-29,6.5,832
+ACC00249,Diya Reddy,Credit Card,166009,10790.58,High,Bangalore,2024-09-26,1.8,690
+ACC00251,Aarav Nair,Savings,49686,3229.59,Mid,Mumbai,2019-07-01,7.0,556
+ACC00255,Karan Mehta,Credit Card,189638,12326.47,High,Mumbai,2023-02-13,3.4,698
+ACC00263,Vikram Verma,Loan,951438,61843.47,Premium,Chennai,2022-06-22,4.0,595
+ACC00268,Aditi Patel,Fixed Deposit,170932,11110.58,High,Chennai,2025-05-10,1.2,750
+ACC00273,Vikram Gupta,Credit Card,70590,4588.35,Mid,Kolkata,2022-03-24,4.3,693
+ACC00277,Simran Patel,Recurring Deposit,263460,17124.9,High,Pune,2020-10-27,5.7,698
+ACC00283,Karan Patel,Savings,248468,16150.42,High,Pune,2024-02-08,2.4,343
+ACC00284,Aarav Gupta,Credit Card,782,50.83,Low,Bangalore,2020-06-16,6.1,400
+ACC00287,Diya Verma,Current,397437,25833.41,High,Chennai,2022-11-15,3.6,740
+ACC00294,Arjun Joshi,Fixed Deposit,1090813,70902.84,Premium,Chennai,2019-10-07,6.7,712
+ACC00295,Neha Chatterjee,Fixed Deposit,805359,52348.34,Premium,Chennai,2019-03-07,7.3,652
+ACC00300,Simran Nair,Recurring Deposit,114145,7419.42,High,Hyderabad,2024-06-01,2.1,425
+ACC00307,Vivaan Khan,Savings,110522,7183.93,High,Hyderabad,2019-05-26,7.1,459
+ACC00309,Neha Singh,Credit Card,187134,12163.71,High,Mumbai,2025-05-10,1.2,593
+ACC00314,Simran Gupta,Current,775837,50429.4,Premium,Pune,2018-08-24,7.9,856
+ACC00319,Pooja Nair,Savings,73816,4798.04,Mid,Delhi,2017-03-28,9.3,616
+ACC00325,Kunal Nair,Fixed Deposit,1843439,119823.54,Premium,Hyderabad,2025-04-28,1.2,559
+ACC00332,Aditi Joshi,Fixed Deposit,885331,57546.52,Premium,Kolkata,2026-03-11,0.3,458
+ACC00337,Diya Nair,Loan,2156384,140164.96,Premium,Delhi,2022-03-19,4.3,769
+ACC00341,Tanvi Sharma,Recurring Deposit,192449,12509.19,High,Mumbai,2023-11-15,2.6,518
+ACC00349,Tanvi Chatterjee,Credit Card,78512,5103.28,Mid,Chennai,2017-10-10,8.7,759
+ACC00359,Sara Gupta,Credit Card,131771,8565.12,High,Bangalore,2016-10-28,9.7,494
+ACC00360,Karan Iyer,Fixed Deposit,1975551,128410.82,Premium,Bangalore,2024-09-07,1.8,738
+ACC00382,Aditi Khan,Fixed Deposit,1347434,87583.21,Premium,Chennai,2025-11-21,0.6,643
+ACC00385,Pooja Iyer,Loan,619045,40237.93,Premium,Pune,2022-01-22,4.5,451
+ACC00402,Ishaan Gupta,Credit Card,183385,11920.02,High,Bangalore,2018-09-17,7.8,571
+ACC00406,Kunal Chatterjee,Savings,114151,7419.82,High,Chennai,2021-11-23,4.6,724
+ACC00410,Ananya Chatterjee,Savings,8790,571.35,Low,Chennai,2016-12-27,9.5,520
+ACC00416,Priya Kapoor,Fixed Deposit,1842788,119781.22,Premium,Kolkata,2023-06-12,3.1,352
+ACC00424,Sara Gupta,Fixed Deposit,468431,30448.02,High,Hyderabad,2023-06-18,3.0,536
+ACC00427,Meera Singh,Loan,943200,61308.0,Premium,Bangalore,2016-03-13,10.3,808
+ACC00434,Aditi Reddy,Savings,218991,14234.42,High,Chennai,2019-05-27,7.1,452
+ACC00435,Ananya Verma,Current,433429,28172.88,High,Mumbai,2019-08-21,6.9,779
+ACC00438,Ananya Verma,Current,218697,14215.3,High,Mumbai,2020-10-02,5.8,702
+ACC00439,Sara Patel,Savings,146736,9537.84,High,Delhi,2018-09-24,7.8,825
+ACC00441,Aditi Kapoor,Recurring Deposit,99573,6472.24,Mid,Bangalore,2026-06-11,0.1,721
+ACC00444,Rahul Kapoor,Fixed Deposit,1515349,98497.68,Premium,Pune,2016-09-13,9.8,503
+ACC00447,Neha Khan,Credit Card,174164,11320.66,High,Bangalore,2024-05-21,2.1,844
+ACC00450,Aditi Nair,Credit Card,158359,10293.34,High,Pune,2022-09-02,3.8,736
+ACC00453,Kunal Verma,Fixed Deposit,1784633,116001.14,Premium,Chennai,2023-05-31,3.1,851
+ACC00470,Aditi Gupta,Recurring Deposit,459570,29872.05,High,Kolkata,2025-02-03,1.4,595
+ACC00472,Rohan Nair,Savings,28619,1860.24,Mid,Kolkata,2023-08-09,2.9,722
+ACC00479,Tanvi Nair,Current,294195,19122.68,High,Kolkata,2025-12-17,0.5,380
+ACC00480,Diya Chatterjee,Fixed Deposit,942587,61268.16,Premium,Hyderabad,2017-07-22,9.0,757
+ACC00488,Meera Kapoor,Credit Card,154663,10053.1,High,Delhi,2022-04-13,4.2,603
+ACC00494,Arjun Iyer,Recurring Deposit,16309,1060.08,Low,Delhi,2024-02-29,2.3,899
+ACC00502,Simran Singh,Loan,862569,56066.98,Premium,Delhi,2021-03-31,5.3,318
+ACC00505,Vivaan Singh,Loan,1425536,92659.84,Premium,Pune,2016-02-01,10.4,873
+ACC00506,Ishaan Chatterjee,Loan,1428159,92830.34,Premium,Mumbai,2023-12-10,2.6,512
+ACC00507,Tanvi Verma,Loan,2065189,134237.28,Premium,Mumbai,2024-03-09,2.3,544
+ACC00510,Neha Patel,Loan,2757571,179242.12,Premium,Pune,2024-06-07,2.1,381
+ACC00517,Vivaan Singh,Credit Card,187588,12193.22,High,Chennai,2026-06-11,0.1,831
+ACC00520,Aarav Verma,Credit Card,128227,8334.76,High,Kolkata,2023-05-10,3.2,445
+ACC00523,Ishaan Verma,Fixed Deposit,847439,55083.54,Premium,Pune,2017-12-10,8.6,755
+ACC00539,Rahul Sharma,Credit Card,102931,6690.52,High,Mumbai,2023-03-21,3.3,781
+ACC00560,Kunal Patel,Loan,2142863,139286.1,Premium,Chennai,2019-07-12,7.0,479
+ACC00563,Karan Sharma,Current,480456,31229.64,High,Chennai,2024-02-20,2.4,874
+ACC00577,Diya Kapoor,Loan,2622734,170477.71,Premium,Pune,2024-01-13,2.5,787
+ACC00579,Pooja Rao,Recurring Deposit,192118,12487.67,High,Chennai,2024-09-28,1.8,622
+ACC00595,Kunal Reddy,Current,103494,6727.11,High,Mumbai,2026-02-15,0.4,326
+ACC00598,Priya Patel,Savings,249454,16214.51,High,Kolkata,2016-10-07,9.7,795
+ACC00599,Ananya Nair,Current,296991,19304.42,High,Pune,2023-10-21,2.7,427
+ACC00602,Aditi Khan,Current,793384,51569.96,Premium,Kolkata,2024-03-18,2.3,491
+ACC00625,Kabir Gupta,Current,354933,23070.64,High,Mumbai,2024-03-23,2.3,409
+ACC00631,Vivaan Mehta,Loan,2725806,177177.39,Premium,Hyderabad,2020-12-05,5.6,860
+ACC00643,Priya Singh,Recurring Deposit,137259,8921.84,High,Kolkata,2016-05-16,10.1,755
+ACC00646,Ananya Mehta,Current,730961,47512.46,Premium,Delhi,2017-10-21,8.7,609
+ACC00647,Arjun Joshi,Loan,1386275,90107.88,Premium,Mumbai,2020-09-01,5.8,780
+ACC00650,Karan Reddy,Savings,191660,12457.9,High,Kolkata,2019-09-07,6.8,466
+ACC00657,Rohan Reddy,Loan,1594005,103610.32,Premium,Bangalore,2026-02-13,0.4,845
+ACC00662,Ishaan Iyer,Current,639513,41568.34,Premium,Mumbai,2017-10-17,8.7,616
+ACC00667,Aditi Joshi,Recurring Deposit,85802,5577.13,Mid,Bangalore,2020-11-04,5.7,632
+ACC00668,Rahul Khan,Current,403232,26210.08,High,Hyderabad,2024-03-29,2.3,460
+ACC00675,Karan Chatterjee,Recurring Deposit,42885,2787.52,Mid,Chennai,2017-06-04,9.1,325
+ACC00678,Aditi Joshi,Credit Card,47039,3057.54,Mid,Delhi,2023-05-23,3.1,566
+ACC00686,Ananya Kapoor,Recurring Deposit,341323,22186.0,High,Pune,2020-02-09,6.4,317
+ACC00690,Sara Khan,Current,779616,50675.04,Premium,Delhi,2023-12-29,2.5,461
+ACC00693,Arjun Iyer,Recurring Deposit,370517,24083.6,High,Mumbai,2024-07-15,2.0,628
+ACC00695,Ananya Nair,Recurring Deposit,291576,18952.44,High,Bangalore,2017-05-11,9.2,337
+ACC00700,Simran Khan,Current,92636,6021.34,Mid,Bangalore,2024-07-04,2.0,750
+ACC00708,Ananya Reddy,Credit Card,8435,548.28,Low,Kolkata,2021-04-18,5.2,502
+ACC00712,Karan Iyer,Fixed Deposit,1122172,72941.18,Premium,Delhi,2025-03-21,1.3,360
+ACC00718,Tanvi Kapoor,Fixed Deposit,60726,3947.19,Mid,Mumbai,2024-03-17,2.3,593
+ACC00734,Vikram Nair,Fixed Deposit,1762771,114580.12,Premium,Chennai,2017-04-12,9.2,528
+ACC00738,Meera Singh,Savings,118031,7672.02,High,Kolkata,2026-02-13,0.4,550
+ACC00749,Karan Mehta,Credit Card,20467,1330.36,Low,Hyderabad,2017-03-23,9.3,714
+ACC00750,Arjun Reddy,Current,80087,5205.66,Mid,Mumbai,2017-09-10,8.8,815
+ACC00752,Kunal Chatterjee,Savings,244230,15874.95,High,Kolkata,2023-05-12,3.2,718
+ACC00757,Rohan Chatterjee,Loan,491244,31930.86,High,Kolkata,2023-04-06,3.2,431
+ACC00759,Diya Gupta,Credit Card,36888,2397.72,Mid,Pune,2023-04-14,3.2,841
+ACC00765,Simran Nair,Fixed Deposit,612772,39830.18,Premium,Mumbai,2018-12-31,7.5,510
+ACC00767,Ananya Khan,Fixed Deposit,1207423,78482.5,Premium,Chennai,2023-12-17,2.6,729
+ACC00768,Ananya Mehta,Fixed Deposit,164054,10663.51,High,Kolkata,2016-05-10,10.2,427
+ACC00774,Kabir Nair,Current,537288,34923.72,Premium,Delhi,2019-09-27,6.8,756
+ACC00779,Pooja Reddy,Savings,147199,9567.94,High,Mumbai,2020-04-19,6.2,567
+ACC00785,Tanvi Rao,Recurring Deposit,452215,29393.98,High,Mumbai,2023-11-27,2.6,596
+ACC00790,Rohan Kapoor,Recurring Deposit,69868,4541.42,Mid,Hyderabad,2025-06-05,1.1,300
+ACC00791,Kunal Reddy,Savings,37779,2455.64,Mid,Bangalore,2022-01-28,4.4,341
+ACC00795,Tanvi Joshi,Current,689038,44787.47,Premium,Delhi,2018-09-19,7.8,320
+ACC00800,Simran Reddy,Credit Card,175330,11396.45,High,Mumbai,2019-04-14,7.2,728
+ACC00801,Meera Khan,Fixed Deposit,415853,27030.44,High,Pune,2024-12-02,1.6,792
+ACC00807,Priya Chatterjee,Current,25942,1686.23,Mid,Chennai,2024-03-02,2.3,501
+ACC00814,Kabir Joshi,Credit Card,13386,870.09,Low,Kolkata,2019-08-22,6.9,738
+ACC00827,Rohan Singh,Recurring Deposit,148852,9675.38,High,Pune,2023-08-11,2.9,874
+ACC00835,Kunal Sharma,Savings,33843,2199.8,Mid,Delhi,2021-10-02,4.8,840
+ACC00842,Meera Rao,Savings,25200,1638.0,Mid,Pune,2025-06-26,1.0,344
+ACC00844,Rahul Sharma,Fixed Deposit,1989896,129343.24,Premium,Pune,2025-09-02,0.8,514
+ACC00845,Karan Gupta,Current,295869,19231.48,High,Mumbai,2020-11-15,5.6,729
+ACC00871,Sara Joshi,Recurring Deposit,131800,8567.0,High,Bangalore,2025-04-01,1.3,586
+ACC00872,Karan Singh,Credit Card,8902,578.63,Low,Delhi,2022-05-08,4.2,564
+ACC00874,Rohan Chatterjee,Savings,196043,12742.8,High,Hyderabad,2025-12-20,0.5,866
+ACC00877,Ishaan Chatterjee,Credit Card,103230,6709.95,High,Bangalore,2018-01-05,8.5,891
+ACC00882,Arjun Iyer,Current,117060,7608.9,High,Bangalore,2022-03-11,4.3,545
+ACC00883,Rahul Reddy,Loan,2606473,169420.74,Premium,Mumbai,2024-07-31,1.9,848
+ACC00886,Rohan Rao,Savings,89109,5792.08,Mid,Delhi,2026-05-12,0.1,767
+ACC00896,Aarav Reddy,Recurring Deposit,413457,26874.7,High,Bangalore,2022-05-10,4.2,328
+ACC00903,Rahul Sharma,Credit Card,97671,6348.62,Mid,Delhi,2018-08-04,7.9,577
+ACC00908,Simran Rao,Recurring Deposit,135800,8827.0,High,Hyderabad,2024-06-29,2.0,318
+ACC00909,Sara Gupta,Savings,147540,9590.1,High,Delhi,2022-03-10,4.3,841
+ACC00915,Rohan Mehta,Loan,2656634,172681.21,Premium,Delhi,2024-01-05,2.5,305
+ACC00917,Meera Verma,Credit Card,21532,1399.58,Low,Delhi,2017-02-08,9.4,749
+ACC00933,Ananya Verma,Credit Card,380,24.7,Low,Kolkata,2020-08-26,5.9,881
+ACC00937,Neha Patel,Recurring Deposit,57581,3742.77,Mid,Bangalore,2022-01-26,4.4,426
+ACC00943,Rohan Singh,Current,116523,7574.0,High,Bangalore,2020-01-14,6.5,634
+ACC00945,Pooja Mehta,Credit Card,163989,10659.28,High,Delhi,2017-05-15,9.1,813
+ACC00946,Aarav Reddy,Current,542082,35235.33,Premium,Pune,2022-10-03,3.8,687
+ACC00951,Meera Nair,Current,70827,4603.76,Mid,Bangalore,2023-10-14,2.7,626
+ACC00952,Ananya Verma,Loan,151687,9859.66,High,Pune,2017-01-19,9.5,888
+ACC00954,Karan Khan,Loan,2534985,164774.02,Premium,Delhi,2024-08-18,1.9,851
+ACC00957,Rohan Rao,Credit Card,139215,9048.98,High,Mumbai,2021-01-05,5.5,809
+ACC00962,Arjun Iyer,Loan,1769190,114997.35,Premium,Mumbai,2023-03-14,3.3,541
+ACC00965,Simran Verma,Current,693975,45108.38,Premium,Chennai,2021-09-01,4.8,561
+ACC00970,Kabir Mehta,Savings,180924,11760.06,High,Kolkata,2019-11-12,6.6,616
+ACC00974,Aditi Khan,Current,703202,45708.13,Premium,Delhi,2018-08-21,7.9,348
+ACC00975,Arjun Joshi,Fixed Deposit,1410010,91650.65,Premium,Hyderabad,2021-10-13,4.7,428
+ACC00977,Diya Reddy,Savings,150749,9798.68,High,Kolkata,2016-07-11,10.0,640
+ACC00978,Pooja Nair,Loan,721631,46906.02,Premium,Pune,2017-06-15,9.1,304
+ACC00980,Kunal Nair,Loan,2503326,162716.19,Premium,Delhi,2022-10-20,3.7,500
+ACC00982,Simran Khan,Fixed Deposit,113327,7366.26,High,Delhi,2016-10-13,9.7,879
+ACC00986,Pooja Nair,Fixed Deposit,316241,20555.66,High,Bangalore,2026-02-11,0.4,680
+ACC00988,Rohan Singh,Fixed Deposit,761737,49512.9,Premium,Hyderabad,2016-12-31,9.5,771
+ACC00992,Priya Nair,Current,34208,2223.52,Mid,Pune,2020-04-09,6.2,404
+ACC00997,Kunal Iyer,Recurring Deposit,449119,29192.74,High,Hyderabad,2023-04-01,3.3,521
+ACC01000,Neha Gupta,Credit Card,32056,2083.64,Mid,Bangalore,2021-06-05,5.1,672
