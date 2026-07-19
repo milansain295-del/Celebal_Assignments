@@ -1,133 +1,124 @@
-# 🚀 Data Engineering Internship @ Celebal Technologies
+# Data Engineering Internship @ Celebal Technologies
 
-This repository documents my learning journey during my **Data Engineering Internship at Celebal Technologies**. Rather than being just a collection of assignments, it serves as a week-by-week record of the concepts I learned, projects I built, challenges I encountered, and the solutions I implemented throughout the internship.
+This repo is where I've been keeping everything from my Data Engineering internship at Celebal Technologies — not just a folder of finished assignments, but a running record of what I actually learned each week, what I built, where I got stuck, and how I worked my way through it.
 
-It includes code, documentation, screenshots, and project explanations that demonstrate my practical understanding of Data Engineering concepts and cloud technologies.
+Inside you'll find code, notes, screenshots, and short explanations of each project. The goal was to actually understand the tools, not just get an assignment to run once and move on.
 
 ---
 
-## 📂 Repository Structure
+## Repo layout
 
 ```
 Data-Engineering-Internship/
 │
 ├── Week 1/
-│   ├── README.md
-│   ├── Assignment Files
-│   └── Screenshots/
-│
 ├── Week 2/
-│   ├── README.md
-│   ├── Assignment Files
-│   └── Screenshots/
-│
 ├── Week 3/
-│   ├── README.md
-│   ├── Assignment Files
-│   └── Screenshots/
-│
 ├── Week 4/
-│   ├── README.md
-│   ├── Azure Data Factory Pipeline
-│   ├── ARM Templates
-│   ├── Pipeline JSON
-│   └── Screenshots/
-│
+├── Week 5/
+├── Week 6/
+├── Week 7/
+├── Week 8/
 └── README.md
 ```
 
----
-
-## 📚 What You'll Find
-
-### ✅ Weeks 1–3
-Focused on building strong foundations in Data Engineering:
-
-- SQL queries and database operations
-- Python programming for data processing
-- Cloud computing fundamentals
-- Azure Storage Accounts
-- Blob Containers
-- IAM (Identity & Access Management)
-- Hands-on assignments and exercises
+Each week's folder generally has:
+- a README walking through what the assignment was
+- the actual code
+- screenshots as proof it ran
+- output files, when there were any worth keeping
 
 ---
 
-### ☁️ Week 4
-Built a complete Azure Data Factory (ADF) pipeline.
+## Week-by-week
 
-Key tasks included:
+### Week 1 – Python basics
 
-- Creating Azure resources
-- Configuring Linked Services
-- Building Datasets
-- Designing Copy Data pipelines
-- Moving data from Azure Blob Storage to the destination
+Getting comfortable with the language itself: variables, data types, conditionals, loops, functions, lists/tuples/dictionaries, basic file handling, and a handful of small programming exercises to make sure it all actually stuck.
+
+### Week 2 – SQL basics
+
+Started with plain SQL: `SELECT` statements, filtering with `WHERE`, sorting, aggregate functions, `GROUP BY`, `HAVING`, and joins. Mostly practice queries to build the muscle memory.
+
+### Week 3 – SQL subqueries
+
+Went a level deeper — single-row and multi-row subqueries, correlated subqueries, nested queries, and a set of problems designed to force actual SQL thinking rather than copy-pasting patterns.
+
+### Week 4 – Data engineering concepts
+
+This week was more conceptual than hands-on: what data engineering actually is, ETL vs ELT, batch vs stream processing, data warehouses vs data lakes, the basics of big data, an intro to Apache Spark, and enough distributed computing theory to understand why any of this matters at scale.
+
+### Week 5 – Data cleaning & Spark
+
+First real hands-on work with PySpark, doing the kind of preprocessing you'd actually need on messy data: handling nulls, removing duplicates, converting data types, creating derived columns, grouping and aggregating (sums, averages, counts), and general transformations. Also spent time understanding *why* Spark exists in the first place — what breaks down with plain Pandas once data gets big enough.
+
+Assignment work included Spark data cleaning tasks, transformation questions, and aggregation exercises.
+
+### Week 6 – Apache Spark
+
+Went deeper into how Spark actually works under the hood: driver and executor architecture, `SparkSession`, DataFrames, lazy evaluation, the difference between actions and transformations, reading/writing CSV and Parquet, Spark SQL, and some basic performance considerations.
+
+### Week 7 – Databricks
+
+Moved into Databricks itself — workspaces, clusters, notebooks, DBFS, uploading datasets, running Spark jobs, and working through a few end-to-end Spark workflows in that environment.
+
+### Week 8 – Planning
+
+Less about new tools, more about pulling everything together: project planning, pipeline design, documentation habits, general best practices, and laying the groundwork for a final assignment.
+
+---
+
+## Azure Data Factory project
+
+One of the bigger pieces of the internship was building a full Azure Data Factory pipeline from scratch. That covered:
+
+- Azure Storage Accounts and Blob Containers
+- Linked Services
+- Datasets
+- Copy Data activities
 - Metadata validation
-- Pipeline execution and monitoring
-- End-to-end workflow testing
+- Pipeline monitoring
+- Moving data end-to-end through the pipeline
 
-Screenshots of every major step are included for reference.
+Screenshots of the key steps are in the repo so it's not just a description — there's actual evidence it worked.
 
 ---
 
-## 🛠️ Technologies Used
+## Tools & tech used
 
 - Python
 - SQL
+- Apache Spark
+- Databricks
 - Microsoft Azure
-  - Azure Storage Account
+  - Storage Account
   - Blob Storage
-  - Azure Data Factory (ADF)
+  - Azure Data Factory
   - IAM
-- Git
-- GitHub
+- Git & GitHub
 
 ---
 
-## 📸 Documentation
+## Why this repo exists
 
-Each week's folder contains:
+A few reasons:
 
-- Detailed README
-- Source code
-- Assignment files
-- Screenshots
-- Pipeline outputs (where applicable)
+- It's a learning journal I can actually look back on
+- It doubles as a portfolio of what I did during the internship
+- It's an archive of the assignments themselves
+- It documents the Azure project in detail
+- It's a place to keep the Spark practice work
+- It tracks progress over the full eight weeks
 
-This makes it easy to understand the work completed without needing additional explanation.
-
----
-
-## 🎯 Purpose of this Repository
-
-This repository serves as:
-
-- A structured learning journal
-- Documentation of internship progress
-- A collection of hands-on Data Engineering projects
-- A portfolio showcasing practical Azure and Data Engineering skills
-
-It reflects my progress throughout the internship and provides a clear overview of the concepts and tools I've worked with.
+The point was never to just show a polished final result — it's meant to show the actual path from Python fundamentals to cloud tools and distributed data processing.
 
 ---
 
-## 📈 Learning Journey
-
-Every week introduced new concepts, practical exercises, and real-world tasks. This repository captures not only the final solutions but also the learning process behind them.
-
-As the internship progresses, new weeks, projects, and technologies will continue to be added.
-
----
-
-## 👨‍💻 Author
+## Author
 
 **Milan Sain**
-
-Data Engineering Intern @ **Celebal Technologies**
-
-GitHub: *Add your GitHub profile link here*
+Data Engineering Intern, Celebal Technologies
 
 ---
 
-> **A continuously growing collection of projects, assignments, and practical learning from my Data Engineering Internship at Celebal Technologies.**
+*A running collection of assignments, projects, and hands-on learning from my Data Engineering Internship at Celebal Technologies.*
